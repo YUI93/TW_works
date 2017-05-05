@@ -1,4 +1,4 @@
-package main.java;
+package test.java;
 
 public class BowlingGame {
 
