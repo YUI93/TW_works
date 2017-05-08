@@ -151,13 +151,15 @@ public class BowlingGame {
         }
         return totalScore;
     }
+	
+	/*
     public static void main(String[] args) {
 //         String s = "X|7/|9-|X|-8|8/|-6|X|X|X||81";
 //         String s = "5/|5/|5/|5/|5/|5/|5/|5/|5/|5/||5";
-//        String s = "9-|9-|9-|9-|9-|9-|9-|9-|9-|9-||"; // false
+//        String s = "9-|9-|9-|9-|9-|9-|9-|9-|9-|9-||"; 
          String s = "X|X|X|X|X|X|X|X|X|X||XX";
         System.out.println(getBowlingScore(s));
-
     }
+	*/
 }
 
